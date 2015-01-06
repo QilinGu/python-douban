@@ -1,6 +1,7 @@
 {
     "host_conf": {
         "mail_host": "smtp.126.com",
+        "mail_port": 25,
         "mail_user": "heavenfox@126.com",
         "mail_passwd": "asd123,./asd"
     },
