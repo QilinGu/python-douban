@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 import urllib2
 from bs4 import BeautifulSoup
-from webscraer.tool.dataserialization import DataSerialization
+from tool.dataserialization import DataSerialization
 from mail import MailSender
-f = open('../conf/mailnotify.json')
+f = open('conf/mailnotify.json')
 serialization = DataSerialization()
-json_manager = serialization.data_to_json(f.read())
+json_manager = serialization.json_to_data(f.read())
 f.close()
 
 
@@ -29,5 +29,7 @@ class Crawler():
             if float(d[1]) > 8.5:
                 # 以发送邮件形式通知我
                 content += d[0] + '\t' + d[1] + ';'
+        if content != '':
+            print('今日推荐歌曲, 注意查收您的邮件!')
         mail_sender = MailSender()
         mail_sender.send_mail(self.mail_to, self.subject, content)
