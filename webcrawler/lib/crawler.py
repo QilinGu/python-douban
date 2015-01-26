@@ -31,5 +31,5 @@ class Crawler():
                 content += d[0] + '\t' + d[1] + ';'
         if content != '':
             print('今日推荐歌曲, 注意查收您的邮件!')
-        mail_sender = MailSender()
-        mail_sender.send_mail(self.mail_to, self.subject, content)
+            mail_sender = MailSender()
+            mail_sender.send_mail(self.mail_to, self.subject, content)
