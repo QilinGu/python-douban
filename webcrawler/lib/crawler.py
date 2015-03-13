@@ -33,3 +33,5 @@ class Crawler():
             print('今日推荐歌曲, 注意查收您的邮件!')
             mail_sender = MailSender()
             mail_sender.send_mail(self.mail_to, self.subject, content)
+        else:
+            print('今日无推荐')
