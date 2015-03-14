@@ -2,8 +2,10 @@
 import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
-from lib.crawler import Crawler
+from lib.movie import MovieCrawler
+from lib.book import BookCrawler
 
 if __name__ == '__main__':
-    crawler = Crawler()
-    crawler.run()
+    # crawler = MovieCrawler()
+    # crawler.run()
+    BookCrawler().get_book_list('互联网')
