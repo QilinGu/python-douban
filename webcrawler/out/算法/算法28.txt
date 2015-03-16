@@ -1,0 +1,3 @@
+Graph-basedNaturalLanguageProcessingandInformationRetrieval	7.7	RadaF.Mihalcea、DragomirR.Radev/CambridgeUniversityPress/2011-4-11/USD65.00
+走进搜索引擎	7.3	电子工业出版社/2011-5/49.00元
+TheElementsofStatisticalLearning:DataMining,Inference,andPrediction	9.3	TrevorHastie、RobertTibshirani、JeromeFriedman/Springer/December2008/USD89.95

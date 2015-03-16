@@ -1,0 +1,12 @@
+EncyclopediaofAlgorithms	7.8	Ming-YangKao/Springer/2008-08-06/USD399.00
+应用组合数学	7.9	AlanTucker/冯速/人民邮电出版社/2009-3/65.00元
+数据挖掘原理与算法	7.5	毛国君[等]编著/清华大学/2007-12/29.00元
+计算智能:ComputationalIntelligence:ConceptstoImplementations	7.6	RussellC.Eberhart、YuhuiShi/人民邮电出版社/2009-2/69.00元
+NetworkAlgorithmics,:AnInterdisciplinaryApproachtoDesigningFastNetworkedDevices(TheMorganKaufmannSeriesin	8.1	GeorgeVarghese/MorganKaufmann/2004-12-29/USD75.95
+机器学习基础教程:AFirstCourseinMachineLearning	7.2	（英）SimonRogers,、MarkGirolami/郭茂祖、王春宇刘扬刘晓燕、刘扬、刘晓燕/机械工业出版社/2014-1/45.00
+密码学与编码理论	7.0	王鹏/王全龙、王鹏、林昌露/人民邮电/2008-4/49.00元
+群体智能:swarmintelligence	8.1	JamesKennedy、RussellCEberhart、YuhuiShi/人民邮电出版社/2009-2-1/75.00元
+光线跟踪算法技术	6.6	萨芬/刘天慧/清华大学出版社/2011-3/98.00元
+计算机算法	7.3	霍罗威茨/机械工业/2006-1/55.00元
+IntroductiontoProgramminginJava:AnInterdisciplinaryApproach	7.9	RobertSedgewick、KevinWayne/Addison-Wesley/2007-7-27/USD89.00
+游戏编程中的人工智能技术	8.2	布克兰德/吴祖增/清华大学出版社/2006-5/39.0

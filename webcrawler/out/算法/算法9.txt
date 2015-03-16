@@ -1,0 +1,11 @@
+数论概论	9.0	希尔弗曼/孙智伟/机械工业出版社/2008-5/42.00元
+Web数据挖掘	7.7	刘兵/俞勇/清华大学出版社/2009-4/49.00元
+AlgorithmsandNetworkingforComputerGames	7.6	JouniSmed、HarriHakonen/Wiley/2006-07-11/USD100.00
+TheProbabilisticMethod	8.3	NogaAlon、JoelH.Spencer/Wiley-Interscience/2008-8-11/USD137.00
+HowtoThinkAboutAlgorithms:ToThinkAboutAlgorithms	7.7	JEFFEDMONDS/CambridgeUniversityPress/2008-05-19/USD38.99
+ApproximationAlgorithms	7.8	VijayV.Vazirani/Springer/2010-12-1/USD54.95
+ACM程序设计竞赛基础教程:ACM程序设计竞赛基础教程	7.5	俞经善//王宇华//于金峰/清华大学/2010-10/28.00元
+程序设计中常用的解题策略	8.0	王建德、吴永辉/人民邮电出版社/2009-10/49.00元
+ProbabilisticGraphicalModels:PrinciplesandTechniques	9.0	DaphneKoller、NirFriedman/TheMITPress/2009-8-31/$95.00
+MATLAB函数速查手册	7.5	邓薇/人民邮电出版社/2008-10/49.00元
+Python科学计算	8.0	张若愚/清华大学出版社/2012-1/98.00元

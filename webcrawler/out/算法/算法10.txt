@@ -1,0 +1,13 @@
+PC游戏编程:人机博弈	7.9	王小春/重庆大学出版社/2002-6-1/38.00元
+AlgorithmsForInterviews	7.4	AdnanAziz、AmitPrakash/CreateSpace/2010-09-14/USD25.00
+CleverAlgorithms:Nature-InspiredProgrammingRecipes	7.3	JasonBrownlee/LuLu/2012-6/USD24.00
+数据结构与算法分析	8.1	Frank.M.Carrano/金名/清华大学出版社/2007-11/98.00元
+MahoutinAction	8.0	SeanOwen、RobinAnil、TedDunning、EllenFriedman/ManningPublications/2010-11-28/USD44.99
+TheTopTenAlgorithmsinDataMining	7.7	XindongWu、VipinKumar/ChapmanandHall/CRC/2009-4-9/USD82.95
+程序语言的奥妙:算法解读	7.1	杉浦贤/李克秋/2012-7/32.00元
+GPU精粹2	8.4	法尔/清华大学/2007-5/128.0
+ModernB-TreeTechniques	7.4	GoetzGraefe/NowPublishersInc/2011-8-15/USD99.00
+组合数学教程	8.3	范林特/刘振宏、赵振江/机械工业出版社/2007-4/49.00元
+TheBoostGraphLibrary:UserGuideandReferenceManual	7.3	JeremyG.Siek、Lie-QuanLee、AndrewLumsdaine/Addison-WesleyProfessional/2001-12-30/USD44.99
+数据之美:解密优雅数据解决方案背后的故事	7.4	TobySegaran、JeffHammerbacher/祝洪凯、李妹芳、段炼/机械工业出版社/2010年10月/75.00元
+程序设计中的组合数学	7.1	吴文虎/清华大学出版社/2005-5/19.00元

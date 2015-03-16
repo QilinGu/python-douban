@@ -1,0 +1,8 @@
+图像局部不变性特征与描述	7.8	王永明、王贵锦/国防工业出版社/2010-4/35.00元
+DataAnalysiswithOpenSourceTools:Ahands-onguideforprogrammersanddatascientists	7.8	PhilippK.Janert/O'ReillyMedia/2010-11-25/USD39.99
+Mathematica演示项目笔记	7.7	吴飞/清华大学出版社/2010-7/39.00元
+并发的艺术	7.0	ClayBreshears/聂雪军/机械工业出版社/2010年9月/49.00元
+深入理解计算机系统（原书第2版）:深入理解计算机系统	9.7	（美）RandalE.Bryant、DavidO'Hallaron/龚奕利、雷迎春/机械工业出版社/2011-1-1/99.00元
+ArtificialIntelligence:Amodernapproach	8.0	StuartJ.Russel、PeterNorvig
+MiningtheSocialWeb:AnalyzingDatafromFacebook,Twitter,LinkedIn,andOtherSocialMediaSites	7.7	MatthewA.Russell/O'ReillyMedia/2011-2-8/39.99
+RecommenderSystems:AnIntroduction	7.6	DietmarJannach、MarkusZanker、AlexanderFelfernig、GerhardFriedrich/CambridgeUniversityPress/2010-9-30/USD65.00

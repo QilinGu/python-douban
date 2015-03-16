@@ -1,0 +1,17 @@
+算法竞赛入门经典:训练指南	8.8	刘汝佳、陈锋/2012-10/52.80元
+计算机程序设计艺术(第3卷)-排序和查找(英文影印版):排序和查找	8.8	（美）DonaldE.Knuth/清华大学出版社/2002-9/85.00元
+计算机程序设计艺术	8.7	（美/机械工业出版社/2006-7/45.00元
+PurelyFunctionalDataStructures	9.3	ChrisOkasaki/CambridgeUniversityPress/1999-07-01/USD39.99
+高等应用数学问题的MATLAB求解	9.1	薛定宇、陈阳泉/清华大学出版社/2008-10/49.00元
+数据结构与算法JavaScript描述	7.0	[美]MichaelMcMillan/王群锋、杜　欢/人民邮电出版社/2014-8/49.00元
+算法技术手册	8.3	GeorgeT.Heineman、GaryPollice、StanleySelkow/杨晨、李明/机械工业出版社/2010-3/55.00元
+算法之道:从无有到无穷	7.6	邹恒明/机械工业出版社/2010-2/39.00元
+NumericalRecipes3rdEdition:TheArtofScientificComputing	9.4	WilliamH.Press、SaulA.Teukolsky/CambridgeUniversityPress/August2007/£45.00
+程序员实用算法	7.3	AndrewBinstock、JohnRex/陈宗斌/机械工业出版社/2009-9/65.00元
+算法I～IV（C++实现）――基础、数据结构、排序和搜索（第三版）	8.4	RobertSedgewick/张铭泽、赵剑云、梁勇/中国电力出版社/2004-2-1/55.00
+算法竞赛入门经典（第2版）	7.7	刘汝佳/清华大学出版社/2014-5-1/49.8
+图论导引:（原书第2版）	8.7	韦斯特/机械工业出版社/2006-2/65.00元
+Java数据结构和算法	8.3	拉佛/计晓云/中国电力出版社/2004-02-01/55.00元
+应用密码学:协议、算法与C源程序	9.0	BruceSchneier/吴世忠/等/机械工业出版社/2000-1-1/49.00元
+网络流:理论、算法与应用	8.8	拉文德拉K.阿胡亚　托马斯L.马南提　詹姆斯B.沃林/机械工业出版社/2005-5/108.0
+多处理器编程的艺术:TheArtofMultiprocessorProgramming	7.9	NirShavit、MauriceHerlihy/机械工业出版社/2008-8/69.00元

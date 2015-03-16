@@ -1,0 +1,6 @@
+C程序设计思想与方法	7.6	尹宝林/2009-1/36.00元
+程序员的自我修养:链接、装载与库	8.7	俞甲子、石凡、潘爱民/电子工业出版社/2009-4/65.00
+数据结构与算法:C#语言描述	7.0	MichaelMcMillan/吕秀峰、崔睿/人民邮电出版社/2009-5/49.00元
+MathematicaCookbook	7.6	SalMangano/O'ReillyMedia,Inc./2009/$73.44
+IntroductiontoSemi-SupervisedLearning	7.9	XiaojinZhu、AndrewB.Goldberg/MorganandClaypoolPublishers/2009-6-29/USD40.00
+HadoopinAction	8.2	ChuckLam/ManningPublications/2010-12-22/USD44.99

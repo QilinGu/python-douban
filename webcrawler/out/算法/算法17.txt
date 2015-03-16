@@ -1,0 +1,8 @@
+离散数学及其应用(原书第4版)	9.0	KennethH.Rosen/机械工业出版社/2002-1-1/75.00
+算法设计与实验题解	7.3	王晓东/电子工业/2006-9/46.00元
+经典密码学与现代密码学	7.9	(美)斯皮尔曼/叶阮健曹英张长富/清华大学出版社/2005-7/35.0
+ProgrammingComputerVisionwithPython:Toolsandalgorithmsforanalyzingimages	7.5	JanErikSolem/O'ReillyMedia/2012-6-22/USD39.99
+统计自然语言处理基础	8.2	ChrisManning、HinrichSchütze/苑春法、李伟、李庆中/电子工业出版社/2005-1/55.00元
+Real-TimeCollisionDetection	9.3	ChristerEricson/CRCPress/2004-12-22/USD98.95
+学习OpenCV（中文版）:学习OpenCV	8.3	GaryBradski、AdrianKaehler/于仕琪、刘瑞祯/清华大学出版社/2009-10-1/75.00元
+ComputersandIntractability:AGuidetotheTheoryofNP-Completeness	9.7	MichaelR.Garey、DavidS.Johnson/W.H.Freeman/1979-1-15/$97.17

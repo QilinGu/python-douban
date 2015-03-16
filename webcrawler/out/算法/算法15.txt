@@ -1,0 +1,7 @@
+MathematicaCookbook	7.6	SalMangano/O'ReillyMedia,Inc./2009/$73.44
+数学建模算法与应用	7.7	2011-8/49.00元
+解密搜索引擎技术实战	6.6	罗刚/2011-6/69.80元
+国际大学生程序设计竞赛例题解	7.2	郭嵩山/电子工业出版社/2007-7/32.00元
+AppliedMathematicalProgramming	7.5	StephenP.Bradley、ArnoldoC.Hax、ThomasL.Magnanti/Addison-Wesley/1977
+小波与小波变换导论	7.3	C.SidneyBurrusRameshA.GopinathHaitaoGuo/程正兴/机械工业出版社/2008-1/32.00元
+C++数据结构与程序设计	8.0	克鲁斯/钱丽萍/清华大学出版社/2004-1/59.00元

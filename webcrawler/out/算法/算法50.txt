@@ -1,0 +1,15 @@
+OnLisp:AdvancedTechniquesforCommonLISP	9.3	PaulGraham/PrenticeHall/09September,1993/$52.00
+心我论:对自我和灵魂的奇思冥想	8.5	[美]道格拉斯.R.霍夫施塔特(DouglasR.Hofstadter)、[美]丹尼尔·C.丹尼特(D.C.Dennett)/陈鲁明/上海译文出版社/1999/15.40元
+游戏之旅:我的编程感悟	8.2	云风/电子工业出版社/2005-12-01/46.00
+图像工程（中册）	7.6	章毓晋/清华大学出版社/2005-1/39.90元
+线性规划导论	7.5	瓦泽斯坦/机械工业出版社/2006-1/33.00元
+EffectiveC++:55SpecificWaystoImproveYourProgramsandDesigns	9.3	ScottMeyers/Addison-WesleyProfessional/2005-5-22/USD49.99
+改变世界的方程:牛顿、爱因斯坦和相对论	8.6	哈拉尔德·弗里奇(FritzschH.)/邢志忠/上海科技教育出版社/2005-7/21.0
+EffectiveSTL:50SpecificWaystoImproveYourUseoftheStandardTemplateLibrary	8.9	ScottMeyers/-、-/Addison-WesleyProfessional/2001-6-16/USD54.99
+WritingSolidCode	8.7	SteveMaguire/MicrosoftPress/1993-1-1/USD24.95
+MoreEffectiveC++:35NewWaystoImproveYourProgramsandDesigns	8.9	ScottMeyers/Addison-WesleyProfessional/1996-1-8/USD49.99
+TheElementsofProgrammingStyle	9.3	BrianW.Kernighan、P.J.Plauger/ComputingMcgraw-Hill/1978-1-1/USD50.93
+ExceptionalC++Style中文版:40个新的工程难题、编程问题及解决方案的新描述	8.3	HerbSutter/刘未鹏/人民邮电出版社/2006-1/39.00元
+AnIntroductiontoProbabilityTheoryandItsApplications,Vol.1,3rdEdition:Volume1ThirdEdition	9.5	WilliamFeller/Wiley/1968/$143.89
+Linux内核完全剖析	8.3	赵炯/机械工业出版社/2006-1/79.00元
+TheMythicalManMonthandOtherEssaysonSoftwareEngineering:EssaysonSoftwareEngineering,AnniversaryEdition	9.2	FrederickP.BrooksJr./AddisonWesley/1995-8-12/GBP26.99

@@ -1,0 +1,9 @@
+游戏开发物理学	7.8	DavidM.Bourg/O'ReillyTaiwan公司/电子工业出版社/2004-1/48.00元
+C语言接口与实现	8.3	汉森(HansonDavidR.)/傅蓉/机械工业出版社/2004-1/35.0
+矩阵计算	7.8	/G.H.戈卢布/科学出版社/2001-8/48.0
+EffectiveC++中文版	9.2	[美]ScottMeyers/侯捷/华中科技大学出版社/2001-9/49.80元
+编译原理技术与工具	8.9	美.阿霍/人民邮电出版社/2002-2/63.00元
+Perl语言编程	8.7	[美]LarryWall、TomChristiansen、JonOrwant/何伟平/中国电力出版社/2001-12/129.00元
+凌波微步(软件开发警戒案例集)	8.1	王咏刚、周虹/清华大学出版社/2002-11-1/42.00
+C专家编程	9.1	[美]PeterVanderLinde/徐波/人民邮电出版社/2002-12/40.00元
+TheCProgrammingLanguage:SecondEdition	9.6	BrianW.Kernighan、DennisM.Ritchie/PrenticeHall/1989-03-01/$48.67

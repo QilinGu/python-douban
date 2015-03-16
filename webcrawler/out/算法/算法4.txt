@@ -1,0 +1,19 @@
+数据结构	7.1	严蔚敏、吴伟民/清华大学出版社/2007-3-1/30.0
+柔性字符串匹配	8.2	纳瓦罗/中科院计算所网络信息安全研究组/电子工业/2007-3/38.00元
+C语言名题精选百则技巧篇	9.0	冼镜光/机械工业出版社/2005-7/44.00元
+生物信息学算法导论	8.8	N.C.琼斯/第1版(2007年7月1日)/2007-7/45.0
+ElementsofProgrammingInterviews:300QuestionsandSolutions	8.3	AdnanAziz、AmitPrakash、Tsung-HsienLee/CreateSpaceIndependentPublishingPlatform/2012-10-11/USD39.95
+CombinatorialOptimization:AlgorithmsandComplexity	8.4	ChristosH.Papadimitriou、KennethSteiglitz/DoverPublications/1998-1/USD21.95
+NumericalOptimization	9.4	JorgeNocedal、StephenWright/Springer/2000-04-28/USD84.95
+计算几何	8.9	MarkdeBerg、OtfriedCheong、MarcvanKreveld、MarkOvermars/邓俊辉/清华大学/2005-9/39.80元
+计算机算法的设计与分析	7.9	AlfredV.Aho(阿霍)、JohnE.Hopcroft(霍普克劳夫特)、JeffreyD.Ullman(乌尔曼)/机械工业出版社/2007-7-1/49.00元
+RandomizedAlgorithms	9.0	RajeevMotwani、PrabhakarRaghavan/CambridgeUniversityPress/1995-8-25/USD90.00
+挑战编程	7.6	斯基纳/刘汝佳/2009-7/39.00元
+最优化理论与方法	8.4	袁亚湘/科学出版社/1997-1/38.00元
+推荐系统	8.4	[奥地利]DietmarJannach、MarkusZanker、AlexanderFelfernig、GerhardFriedrich/蒋　凡/人民邮电出版社/2013-6-25/59.00元
+PearlsofFunctionalAlgorithmDesign	8.4	RichardBird/CambridgeUniversityPress/2010-11-1/USD68.00
+这就是搜索引擎:核心技术详解	8.2	张俊林/电子工业出版社/2012-1/45.00元
+数据挖掘导论:IntroductiontoDataMining	8.4	Pang-NingTan,MichaelSteinbach/范明范宏建/人民邮电出版社/2006-01-01/49.00元
+MachineLearning:AnAlgorithmicPerspective	7.7	StephenMarsland/Chapman&Hall/CRC/2009/USD72.95
+计算机程序设计艺术：第4卷第4册（双语版）:生成所有树组合生成的历史	8.4	DonaldE.Knuth/苏运霖/机械工业出版社/2007-4/42.00元
+世界大学生程序设计竞赛:程序设计中常用的计算思维方式	7.9	吴文虎、王建德/中国铁道出版社/2009-7/42.00元

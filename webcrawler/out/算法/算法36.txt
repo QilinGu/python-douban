@@ -1,0 +1,7 @@
+代码大全:(第2版)(英文版)	9.2	迈克康奈尔/电子工业出版社/2006-12/148.00元
+数字信号处理教程	7.1	程佩青/清华大学/2007-2/44.50元
+编程卓越之道:第二卷：运用底层语言思想编写高级语言代码	8.1	海德/张菲/电子工业/2007-4/69.00元
+IntroductiontoLinearOptimization:AthenaScientificSeriesinOptimizationandNeuralComputation,6	8.6	DimitrisBertsimas、JohnN.Tsitsiklis/AthenaScientific/1997-02-01/USD89.00
+C语言详解	7.6	[美]JeriR.Hanly、ElliotKoffman/万波、潘蓉、郑海红/人民邮电出版社/2007-11/69.00元
+小波与小波变换导论	7.3	C.SidneyBurrusRameshA.GopinathHaitaoGuo/程正兴/机械工业出版社/2008-1/32.00元
+TheAnnotatedTuring:AGuidedTourThroughAlanTuring'sHistoricPaperonComputabilityandtheTuringMachine	9.4	CharlesPetzold/JohnWiley&Sons/2008-6-13/GBP19.99

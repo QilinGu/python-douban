@@ -9,3 +9,4 @@ if __name__ == '__main__':
     # crawler = MovieCrawler()
     # crawler.run()
     BookCrawler().get_book_list('互联网')
+    # BookCrawler().get_book_list('算法')

@@ -1,0 +1,11 @@
+NetworkAlgorithmics,:AnInterdisciplinaryApproachtoDesigningFastNetworkedDevices(TheMorganKaufmannSeriesin	8.1	GeorgeVarghese/MorganKaufmann/2004-12-29/USD75.95
+AlgorithmDesign:Foundations,Analysis,andInternetExamples	8.8	MichaelT.Goodrich、RobertoTamassia/Wiley/2001-09-15/USD83.95
+程序员面试宝典	6.7	欧立奇、刘洋、段韬/电子工业出版社/2006-7/39.00元
+IntroductiontoGraphTheory	7.9	DouglasB.West/PrenticeHall/2000-9-1/USD140.00
+蚁群优化:AntColonyOptimization	7.5	张军/张军/清华大学/2007-1/36.00元
+数据结构:用面向对象方法与C++语言描述	6.7	殷人昆/清华大学/2007-6/39.00元
+离散数学	8.3	多西/章炯民、王新伟、曹立/机械工业/2007-6/55.00元
+GeometricToolsforComputerGraphics	7.6	PhilipSchneider、DavidH.Eberly/MorganKaufmann/2002-10-10/USD123.00
+形式语言与自动机理论:形式语言与自动机理论	7.3	蒋宗杞/清华大学出版社/2007-7/29.00元
+ComputersandIntractability:AGuidetotheTheoryofNP-Completeness	9.7	MichaelR.Garey、DavidS.Johnson/W.H.Freeman/1979-1-15/$97.17
+Real-TimeCollisionDetection	9.3	ChristerEricson/CRCPress/2004-12-22/USD98.95

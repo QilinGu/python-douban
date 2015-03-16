@@ -1,0 +1,7 @@
+数据结构与算法	7.4	卓滋德克/陈曙晖/清华大学出版社/2003-4-1/69.00
+21天学通Java2:第3版:专业参考版	7.3	LauraLemay、RogersCadenhead/陈武/人民邮电出版社/2004-6-1/58.0
+数据挖掘教程	7.4	郭崇慧、田凤占、邓纳姆/郭崇慧、田凤占/清华大学出版社/2005-5-1/39.00元
+ACM程序设计	7.0	曾棕根/北京大学/2011-4/34.00元
+C++类和数据结构	7.7	查尔兹/张杰良/2009-1/49.99元
+C语言详解	7.6	[美]JeriR.Hanly、ElliotKoffman/万波、潘蓉、郑海红/人民邮电出版社/2007-11/69.00元
+TheArtofComputerProgramming,Vol.4,Fascicles0-4	7.5	DonaldE.Knuth/Addison-WesleyProfessional/2009-4-3/USD89.99

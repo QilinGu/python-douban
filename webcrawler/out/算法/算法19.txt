@@ -1,0 +1,4 @@
+数据结构与算法:C#语言描述	7.0	MichaelMcMillan/吕秀峰、崔睿/人民邮电出版社/2009-5/49.00元
+数据结构与问题求解	7.3	维斯/清华大学出版社/2005-8/86.00元
+FiniteMarkovChainsandAlgorithmicApplications	7.8	OlleHäggström/CambridgeUniversityPress/2002-6-10/USD47.99
+IntroductiontoLinearOptimization:AthenaScientificSeriesinOptimizationandNeuralComputation,6	8.6	DimitrisBertsimas、JohnN.Tsitsiklis/AthenaScientific/1997-02-01/USD89.00

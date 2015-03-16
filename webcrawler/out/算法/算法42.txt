@@ -1,0 +1,5 @@
+PythonforDataAnalysis:DataWranglingwithPandas,NumPy,andIPython	7.9	WesMcKinney/O'ReillyMedia/2012-11-1/USD39.99
+GenerativeDesign:Visualize,Program,andCreatewithProce	8.3	HarmutMohnacker、BenediktGross、JuliaLaub/PrincetonArchitecturalPress/2012-10-1/USD100.00
+神奇的数学:牛津教授给青少年的讲座	7.3	马库斯·杜·索托伊/程玺/人民邮电出版社/2013-1/29.00元
+EffectiveSTL中文版:50条有效使用STL的经验	8.9	梅耶/潘爱民、陈铭、邹开红/电子工业出版社/2013-5/59.00元
+程序员面试宝典（第4版）	6.8	欧立奇、刘洋、段韬/电子工业出版社/2013-7/45

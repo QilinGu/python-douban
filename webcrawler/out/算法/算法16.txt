@@ -1,0 +1,5 @@
+分形算法与程序设计:VisualC++实现	7.3	孙博文/科学出版社/2004-11-1/38.0
+全国青少年信息学奥林匹克联赛培训习题与解答:全国青少年信息学奥林匹克竞赛培	7.2	曹文/南京大学出版社/2004-6-1/48.00元
+IntroductiontoSemi-SupervisedLearning	7.9	XiaojinZhu、AndrewB.Goldberg/MorganandClaypoolPublishers/2009-6-29/USD40.00
+Algorithms&DataStructures:TheScienceOfComputing	7.3	DouglasBaldwin、GregScragg/CharlesRiverMedia/2004-6/USD59.95
+程序设计抽象思想:C语言描述	8.8	EricS.Roberts、闪四清/闪四清/清华大学出版社/2005-6/78.00元

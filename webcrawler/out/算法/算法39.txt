@@ -1,0 +1,4 @@
+TheArtofConcurrency:AThreadMonkey'sGuidetoWritingParallelApplications	7.0	ClayBreshears/O'ReillyMedia/2009-5-22/USD44.99
+TheArtofComputerProgramming,Vol.4,Fascicles0-4	7.5	DonaldE.Knuth/Addison-WesleyProfessional/2009-4-3/USD89.99
+密码学原理与实践	7.7	[加]DouglasR.Stinson/冯登国/电子工业出版社/2009年/55.00元
+软件随想录:程序员部落酋长Joel谈软件	8.7	JoelSpolsky/阮一峰/人民邮电出版社/2009/49.00元

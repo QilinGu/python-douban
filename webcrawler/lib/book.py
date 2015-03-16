@@ -63,22 +63,26 @@ class BookCrawler:
                     continue
                 rates = replace_pattern.sub('', rate_0.text)
                 target_list.append((name, rates, pub))
-            file_name = '互联网%d' % (page + 1)
+            file_name = '%s%d.txt' % (category, page + 1)
             page += 1
-            self.write_to_file(target_list, 'out/%s' % category, file_name)
+            self.write_to_file(target_list, '%s/' % category, file_name)
         print('已处理完最后一页')
 
-    def write_to_file(self, book_list, base_dir, file_name):
+    def write_to_file(self, book_list, category_dir, file_name):
         """
         写入文件
         :param book_list: 目标书籍列表
+        :param category_dir: 归档目录
         :param file_name: 文件名
         :return:
         """
         try:
+            base_dir = 'out/'
             if not os.path.exists(base_dir):
                 os.mkdir(base_dir)
-            file_object = open(base_dir + file_name, 'w')
+            if not os.path.exists(base_dir + category_dir):
+                os.mkdir(base_dir + category_dir)
+            file_object = open(base_dir + category_dir + file_name, 'w')
             for item in book_list:
                 file_object.write('\t'.join(item).encode("utf8"))
                 file_object.write('\n')

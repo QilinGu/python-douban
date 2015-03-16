@@ -1,0 +1,14 @@
+MathematicsforComputerScience	8.1	EricLehman、FThomsonLeighton、AlbertRMeyer/UniversityofPrinceton/2010-9-8
+计算机图形学几何工具算法详解	7.8	史奈德/周长发/电子工业出版社/2005-1-1/89.00
+妙趣横生的算法:（C语言实现）	7.4	杨峰/清华大学出版社/2010-4/49.00元
+TheAlphabetandtheAlgorithm	7.7	MarioCarpo/TheMITPress/2011-2-4/USD21.95
+C算法（第二卷：图算法）（第3版）	8.3	塞德威克(SedgewickRobert)/周良忠/第1版(2004年1月1日)/2004-4/38.0
+程序设计导引及在线实践:21世纪大学本科计算机专业系列教材	7.5	李文新、郭炜、余华山/清华大学出版社/2007年11月/26.00元
+ACM-ICPC世界总决赛试题解析	7.5	吴永辉、王建德/机械工业出版社/2012-8/55.00元
+计算理论基础	8.4	HarryR.Lewis、ChristosH.Papadimitriou/清华大学/2006-7/29.00元
+程序员的数学思维修炼（趣味解读）	5.8	周颖/2014-4-1/45
+TheArtofComputerProgramming,Volume4A:CombinatorialAlgorithms,Part1	7.8	DonaldE.Knuth/Addison-WesleyProfessional/2011-1-22/$74.99
+短码之美	6.9	Ozy(著),やねうらお(監修)/人民邮电出版社/2011-1-8/59.00元
+DataStructuresandAlgorithmsUsingPython	7.4	RanceD.Necaise/Wiley/2010-12-21/730.00元
+Data-intensiveTextProcessingWithMapreduce:SynthesisLecturesonHumanLanguageTechnologies	8.9	JimmyLin、ChrisDyer/MorganandClaypoolPublishers/2010-4-30/USD40.00
+数据结构与算法分析（C++版）（第二版）:国外计算机科学教材系列	7.6	[美]CliffordA.Shaffer/张铭、刘晓丹等/电子工业出版社/2002-6/32.00元

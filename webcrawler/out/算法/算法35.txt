@@ -1,0 +1,11 @@
+TheLittleSchemer-4thEdition	9.3	DanielP.Friedman、MatthiasFelleisen/TheMITPress/1995-12-21/USD33.00
+算法与数据结构	7.0	张乃孝/高等教育出版社/2002-9/31.00元
+计算机自然语言处理	7.4	王晓龙/清华大学出版社/2005-4/23.0
+图像工程（上册）	7.5	章毓晋/清华大学出版社/2006-3/36.00元
+TheHaskellRoadtoLogic,MathsandProgramming.SecondEdition	7.5	KeesDoets、JanvanEijck/CollegePublications/2004-5-7/USD22.75
+HowtoDesignPrograms:AnIntroductiontoProgrammingandComputing	9.0	MatthiasFelleisen、RobertBruceFindler、MatthewFlatt、ShriramKrishnamurthi/TheMITPress/2001-2-12/71.00美元
+EffectiveSTL中文版:50条有效使用STL的经验	8.8	[美]ScottMeyers/清华大学/2006-1/30.0
+软件测试	7.8	[美]RonPatton/张小松、王珏、曹跃/机械工业出版社/2006-4/30.00元
+SurrealNumbers:howtwoex-studentsturnedontopuremathematicsandfoundtotalhappiness:amathematicalnov	7.7	DonaldE.Knuth/AddisonWesley/1974-1-1/GBP18.99
+数据挖掘技术:市场营销、销售与客户关系管理领域应用	8.4	[美]MichaelJ.A.B/别荣芳、尹静、邓六爱/机械工业/2006-7/49.00元
+TheArtofComputerProgramming,Volume3:SortingandSearching(2ndEdition)	8.0	DonaldE.Knuth/Addison-WesleyProfessional/1998-05-04/USD74.99

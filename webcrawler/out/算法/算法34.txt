@@ -1,0 +1,12 @@
+深入理解计算机系统	9.5	RandalE.Bryant、DavidO'Hallaron/龚奕利、雷迎春/中国电力出版社/2004-5-1/85.00元
+计算理论导论	8.7	塞普斯/机械工业出版社/2002-8/39.0
+高级编译器设计与实现	8.9	（美）马其尼克/赵克佳/沈志宇/赵克佳、沈志宇/机械工业出版社/2005-01-01/75.00元
+ThePragmaticProgrammer:FromJourneymantoMaster	8.9	AndrewHunt、DavidThomas/Addison-WesleyProfessional/1999-10-30/USD49.99
+支持向量机导论	7.7	（美）克里斯蒂亚尼尼/机械工业出版社/2005-7/29.00元
+数据结构教程:数据结构教程	6.9	唐发根/北京航空航天大学出版社/2005-5/36.00元
+Computability:AnIntroductiontoRecursiveFunctionTheory	8.3	N.J.Cutland/CambridgeUniversityPress/1980/$31.99
+最优化理论与算法:最优化理论与算法	7.1	陈宝林/清华大学出版社/2005-10-1/46.00元
+HowtoSolveIt:ANewAspectofMathematicalMethod(PrincetonScienceLibrary)	9.0	G.Polya/PrincetonUniversityPress/2004-04-05/USD18.95
+HowtoThinkLikeaComputerScientist:LearningwithPython	8.4	AllenB.Downey、JeffreyElkner、ChrisMeyers/GreenTeaPress/2002-1-4/USD24.95
+搜索引擎:原理、技术与系统	8.0	李晓明/科学出版社发行部/2005-4/33.00元
+统计学习理论的本质	8.9	[美]VladimirN.Vapnik/张学工/清华大学出版社/2000/27.00元

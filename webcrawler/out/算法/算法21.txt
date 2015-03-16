@@ -1,0 +1,5 @@
+算法与数据结构考研试题精析	7.5	陈守孔/机械工业出版社/2004-10/42.00元
+TheHaskellRoadtoLogic,MathsandProgramming.SecondEdition	7.5	KeesDoets、JanvanEijck/CollegePublications/2004-5-7/USD22.75
+矩阵分析	8.1	（美）合恩（Horn/R.A.）等/杨奇/机械工业出版社/2005-4/45.00元
+Computability:AnIntroductiontoRecursiveFunctionTheory	8.3	N.J.Cutland/CambridgeUniversityPress/1980/$31.99
+数据结构C++语言描述	7.3	WilliamFord,WilliamTopp/刘卫东沈官林/清华大学出版社/1999-09-01/58.00

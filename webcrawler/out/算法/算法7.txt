@@ -1,0 +1,16 @@
+图论简明教程	8.4	FredBuckley、MartyLewinter/李慧霸、王凤芹/清华大学出版社/2005-1-1/39.0
+人工智能:复杂问题求解的结构和策略	8.3	（美）卢格尔（Luger，G.F.）/赵志崑、史忠植、张银奎/机械工业出版社/2006/75.00元
+RecommenderSystemsHandbook:ACompleteGuideforResearchScientists&Practitioners	8.7	PaulB.Kantor、FrancescoRicci、LiorRokach、BrachaShapira/Springer/2010-03-01/$199.00
+C数值算法	8.9	(美国)普雷斯等著、傅祖芸等译/傅祖芸/电子工业出版社/2004-1/68.00
+植物的算法美	7.9	（加）普鲁辛凯维奇，（加）林德梅叶/2008-5/48.00元
+概率与计算	8.3	米曾马克/史道齐/机械工业出版社/2007/39.00元
+算法基础	7.9	布拉萨德/清华大学出版社/2005-7/49.0
+算法设计技巧与分析	7.6	[沙特]M.H.Alsuwaiyel/吴伟昶、方世昌/电子工业出版社/2004-8/33.00元
+算法设计与分析导论	8.5	R.C.T.Lee(李家同)、S.S.Tseng、R.C.Chang、Y.T.Tsai/王卫东/机械工业/2008-1/49.00元
+计算机算法	9.1	Baase/高等教育出版社/2001-7-1/39.5
+可能与不可能的边界:P/NP问题趣史	7.4	[美]LanceFortnow/杨　帆/人民邮电出版社/2014-1/39.00
+实用算法的分析与程序设计	8.1	吴文虎王建德/电子工业出版社/1998-1/28.00元
+CollectiveIntelligenceinAction	7.9	SatnamAlag/ManningPublications/2008.08/$44.99
+Algorithms:AFunctionalProgrammingApproach	7.6	FethiA.Rabhi、GuyLapalme/Addison-Wesley/1999-6-1/USD78.60
+MATLAB在数学建模中的应用	7.9	卓金武编/北京航空航天大学/2011-4/34.80元
+AlgorithmicGameTheory	7.6	NoamNisan、TimRoughgarden/CambridgeUniversityPress/2007-9-24/USD64.99

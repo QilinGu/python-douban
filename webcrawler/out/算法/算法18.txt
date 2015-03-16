@@ -1,0 +1,9 @@
+FlashActionScript3.0动画高级教程	9.1	KeithPeters/苏金国、荆涛/人民邮电出版社/2010-1/65.00元
+现代优化计算方法	7.5	邢文训/清华大学出版社/2005-9/28.0
+离散数学	8.3	多西/章炯民、王新伟、曹立/机械工业/2007-6/55.00元
+深入浅出数据分析	7.6	MichaelMilton/李芳/电子工业出版社/2009/88.00元
+DataStructuresandAlgorithmAnalysisinJava	7.5	MarkA.Weiss/AddisonWesley/2006-3-3/USD143.00
+ACM程序设计培训教程	7.0	吴昊/中国铁道/2007-8/28.0
+形式语言与自动机理论:形式语言与自动机理论	7.3	蒋宗杞/清华大学出版社/2007-7/29.00元
+Mathematica演示项目笔记	7.7	吴飞/清华大学出版社/2010-7/39.00元
+数据结构与程序设计	7.7	RobertL.Kruse、AlexanderJ.Ryba/高等教育出版社/2001-5/39.00

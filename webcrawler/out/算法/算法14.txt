@@ -1,0 +1,10 @@
+计算机真实感图形的算法基础	7.3	彭群生/科学出版社/1999-6/45.00元
+CrackingtheCodingInterview,FourthEdition:150ProgrammingInterviewQuestionsandSolutions	8.8	GayleLaakmann/CreateSpace/2008-10-15/USD40.00
+数据结构与算法分析	7.7	奈霍夫/黄达明/清华大学/2006-11/98.00元
+蚁群算法原理及其应用	7.4	段海滨/科学出版社/2005年2月1日/48.0
+RationalityforMortals:HowPeopleCopewithUncertainty(EvolutionandCognition)	8.0	GerdGigerenzer/OxfordUniversityPress,USA/2008-05-02/USD65.00
+遗传算法与工程优化	7.5	程润伟/清华大学出版社/2004-1/39.00元
+遗传算法:理论、应用与软件实现	7.3	王小平/西安交通大学出版社/2002-1/40.00元
+信息学奥林匹克竞赛指导:图论的算法与程序设计（PASCAL版)	7.1	吴文虎/清华大学出版社/1996-08/16.0
+C++数值算法（第二版)	7.8	WilliamT.Vetterling、BrianP.Flannery、SaulA.Teukolsky/胡健伟、赵志勇、薛运华/电子工业出版社/2005年01月/68.00
+信息学奥林匹克竞赛指导--组合数学的算法与程序设计PASCAL版/信息学奥林匹克竞赛指导丛书:组合数学的算法与程序设计（PASCAL版）	7.0	林生编/清华大学出版社/2002-8/19.00元
