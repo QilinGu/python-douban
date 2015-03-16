@@ -65,7 +65,7 @@ class BookCrawler:
                 target_list.append((name, rates, pub))
             file_name = '互联网%d' % (page + 1)
             page += 1
-            self.write_to_file(target_list, 'out/', file_name)
+            self.write_to_file(target_list, 'out/%s' % category, file_name)
         print('已处理完最后一页')
 
     def write_to_file(self, book_list, base_dir, file_name):
