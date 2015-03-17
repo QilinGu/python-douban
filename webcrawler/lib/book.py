@@ -62,7 +62,9 @@ class BookCrawler:
                 if not rate_0:
                     continue
                 rates = replace_pattern.sub('', rate_0.text)
-                target_list.append((name, rates, pub))
+                # 抓取评分高于8.5的书籍
+                if float(rates) > 8.5:
+                    target_list.append((name, rates, pub))
             file_name = '%s%d.txt' % (category, page + 1)
             page += 1
             self.write_to_file(target_list, '%s/' % category, file_name)

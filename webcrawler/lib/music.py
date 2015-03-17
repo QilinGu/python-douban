@@ -9,7 +9,7 @@ json_manager = serialization.json_to_data(f.read())
 f.close()
 
 
-class MovieCrawler():
+class MusicCrawler():
     def __init__(self):
         self.mail_to = json_manager.get('mail_conf').get('to')
         self.subject = json_manager.get('mail_conf').get('subject')
