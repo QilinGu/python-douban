@@ -2,12 +2,12 @@
     "host_conf": {
         "mail_host": "smtp.126.com",
         "mail_port": 25,
-        "mail_user": "heavenfox@126.com",
-        "mail_passwd": "asd123,./asd"
+        "mail_user": "test@126.com",
+        "mail_passwd": "mypassword"
     },
     "mail_conf": {
-        "from": "heavenfox@126.com",
-        "to": "1553556149@qq.com",
+        "from": "test@126.com",
+        "to": "test@qq.com",
         "subject": "notify new song from douban"
     }
 }
