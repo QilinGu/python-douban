@@ -3,6 +3,7 @@ import urllib2
 from bs4 import BeautifulSoup
 from tool.dataserialization import DataSerialization
 from mail import MailSender
+
 f = open('conf/mailnotify.json')
 serialization = DataSerialization()
 json_manager = serialization.json_to_data(f.read())

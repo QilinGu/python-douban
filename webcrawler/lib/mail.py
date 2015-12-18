@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
+
 from email.mime.text import MIMEText
 import smtplib
 from tool import dataserialization
+
 f = open('conf/mailnotify.json')
 json_manager = dataserialization.DataSerialization().json_to_data(f.read())
 f.close()

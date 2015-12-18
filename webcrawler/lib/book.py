@@ -31,7 +31,7 @@ class BookCrawler:
         page = 0
         while 1:
             print '正在处理第%d页' % (page + 1)
-            url = 'http://book.douban.com/tag/%s?start=%d' % (category, page*20)
+            url = 'http://book.douban.com/tag/%s?start=%d' % (category, page * 20)
             refer = url
             buffers = StringIO()
             curl = pycurl.Curl()
@@ -43,7 +43,7 @@ class BookCrawler:
             curl.close()
 
             body = buffers.getvalue()
-            soup = BeautifulSoup(body)
+            soup = BeautifulSoup(body, "html.parser")
 
             content = soup.find('div', {'id': 'subject_list'})
             soup.decompose()
