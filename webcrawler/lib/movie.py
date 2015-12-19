@@ -26,10 +26,10 @@ class TopMovieCrawler:
     def __init__(self):
         pass
 
-    def get_top_movie_list(self, target_url):
+    def get_top_movie_list(self, source_url):
         """
         拿到推荐的250部经典电影列表
-        :param target_url: 目标网址
+        :param source_url: 源网址
         :return:
         """
         curl = pycurl.Curl()
@@ -42,7 +42,7 @@ class TopMovieCrawler:
 
         while 1:
             print '正在处理第%d页' % (page + 1)
-            target_url += extra_url
+            target_url = source_url + extra_url
             buffers = StringIO()
             curl.setopt(pycurl.URL, target_url)
             curl.setopt(pycurl.WRITEDATA, buffers)
@@ -74,7 +74,7 @@ class TopMovieCrawler:
         print('已处理完最后一页')
         curl.close()
         file_name = '%s.txt' % u"top250电影集合"
-        self.write_to_file(target_list, u"top250电影", file_name)
+        self.write_to_file(target_list, u"top250电影/", file_name)
 
     def write_to_file(self, movie_list, category_dir, file_name):
         """
