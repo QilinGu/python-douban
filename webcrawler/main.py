@@ -1,9 +1,14 @@
 # -*- coding: utf-8 -*-
 
-import sys
+# 进入项目根目录
+import os
+project_path = os.path.split(os.path.realpath(__file__))[0]
+os.chdir(project_path)
 
+import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
+
 from lib.music import MusicCrawler
 from lib.book import BookCrawler
 from lib.movie import TopMovieCrawler

@@ -11,8 +11,9 @@ from StringIO import StringIO
 from bs4 import BeautifulSoup
 
 
-# 伪装客户端
-user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:34.0) Gecko/20100101 Firefox/34.0"
+# 伪装成iPad客户端
+user_agent = 'Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) ' \
+             'AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10'
 
 # 伪造来源地址
 refer_url = "http://movie.douban.com"
@@ -25,10 +26,10 @@ class TopMovieCrawler:
     def __init__(self):
         pass
 
-    def get_top_movie_list(self, source_url):
+    def get_top_movie_list(self, target_url):
         """
         拿到推荐的250部经典电影列表
-        :param source_url: 源地址
+        :param target_url: 目标网址
         :return:
         """
         curl = pycurl.Curl()
@@ -36,33 +37,27 @@ class TopMovieCrawler:
         curl.setopt(pycurl.REFERER, refer_url)
 
         page = 0
+        extra_url = ""
         target_list = []
+
         while 1:
             print '正在处理第%d页' % (page + 1)
-            if page == 0:
-                url = "http://movie.douban.com/top250?start=25&filter="
-            else:
-                url = 'http://movie.douban.com/top250?start=%d&filter=' % (25 * page)
+            target_url += extra_url
             buffers = StringIO()
-            curl.setopt(pycurl.URL, url)
+            curl.setopt(pycurl.URL, target_url)
             curl.setopt(pycurl.WRITEDATA, buffers)
             curl.perform()
 
             body = buffers.getvalue()
             buffers.close()
-            print url
             soup = BeautifulSoup(body, "html.parser")
-            print soup
             content = soup.find('div', {'id': 'content'})
-            print content
             soup.decompose()
-            # 这里用试探法测试页数
             clear_fix = content.find('div', {'class': 'article'})
-            # print clear_fix
-            if not clear_fix:
-                break
             subject_list = clear_fix.find('ol', {'class': 'grid_view'}).findAll('li')
-
+            # 这里用试探法测试页数
+            if not subject_list:
+                break
             for item in subject_list:
                 # 获取电影名称, 评分
                 name = replace_pattern.sub('', item.find('div', {'class': 'hd'}).find('a').text)
@@ -72,7 +67,9 @@ class TopMovieCrawler:
                     continue
                 rates = replace_pattern.sub('', rate_0.text)
                 target_list.append((name, rates))
+
             page += 1
+            extra_url = "?start=%d&filter=" % (25 * page)
 
         print('已处理完最后一页')
         curl.close()

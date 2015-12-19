@@ -11,8 +11,12 @@ from StringIO import StringIO
 from bs4 import BeautifulSoup
 
 
-# 伪装客户端
-user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:34.0) Gecko/20100101 Firefox/34.0"
+# 伪装成iPad客户端
+user_agent = 'Mozilla/5.0(iPad; U; CPU iPhone OS 3_2 like Mac OS X; en-us) ' \
+             'AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B314 Safari/531.21.10'
+
+# 伪造来源地址
+refer_url = "http://book.douban.com"
 
 # 正则匹配换行或者空格
 replace_pattern = re.compile('\n|\s+')
@@ -28,21 +32,21 @@ class BookCrawler:
         :param category: 分类
         :return:
         """
+        curl = pycurl.Curl()
+        curl.setopt(pycurl.USERAGENT, user_agent)
+        curl.setopt(pycurl.REFERER, refer_url)
+
         page = 0
         while 1:
             print '正在处理第%d页' % (page + 1)
             url = 'http://book.douban.com/tag/%s?start=%d' % (category, page * 20)
-            refer = url
             buffers = StringIO()
-            curl = pycurl.Curl()
             curl.setopt(pycurl.URL, url)
-            curl.setopt(pycurl.USERAGENT, user_agent)
-            curl.setopt(pycurl.REFERER, refer)
             curl.setopt(pycurl.WRITEDATA, buffers)
             curl.perform()
-            curl.close()
 
             body = buffers.getvalue()
+            buffers.close()
             soup = BeautifulSoup(body, "html.parser")
 
             content = soup.find('div', {'id': 'subject_list'})
@@ -68,6 +72,8 @@ class BookCrawler:
             file_name = '%s%d.txt' % (category, page + 1)
             page += 1
             self.write_to_file(target_list, '%s/' % category, file_name)
+
+        curl.close()
         print('已处理完最后一页')
 
     def write_to_file(self, book_list, category_dir, file_name):
